@@ -2,3 +2,42 @@ Consol.WriteLine("Enter your name");
 string name = Console.ReadLine();
 Consol.WriteLine("Enter your roll number");
 double roll = Convert.To.Int32(Console.ReadLine());
+
+Addtion:
+Consol.WriteLine("Enter first number");
+double x = Convert.To.Int32(Console.ReadLine());
+
+Consol.WriteLine("Enter second number");
+double y = Convert.To.Int32(Console.ReadLine());
+double z = x+y
+
+Consol.WriteLine("Sum of numberis"+ z);
+Console.ReadLine();
+
+Subtraction
+Consol.WriteLine("Enter first number");
+double x = Convert.To.Int32(Console.ReadLine());
+Consol.WriteLine("Enter second number");
+double y = Convert.To.Int32(Console.ReadLine());
+double z = x-y
+Consol.WriteLine("Subtraction  of numberis"+ z);
+Console.ReadLine();
+
+Multiplication 
+Consol.WriteLine("Enter first number");
+double x = Convert.To.Int32(Console.ReadLine());
+Consol.WriteLine("Enter second number");
+double y = Convert.To.Int32(Console.ReadLine());
+double z = x*y
+Consol.WriteLine("Product of number is"+ z);
+Console.ReadLine();
+
+Divisiov 
+Consol.WriteLine("Enter first number");
+double x = Convert.To.Int32(Console.ReadLine());
+Consol.WriteLine("Enter second number");
+double y = Convert.To.Int32(Console.ReadLine());
+double z = x/y
+Consol.WriteLine("Division  of numberis"+ z);
+Console.ReadLine();
+
