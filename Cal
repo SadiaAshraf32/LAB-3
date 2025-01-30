@@ -3,7 +3,7 @@ string name = Console.ReadLine();
 Consol.WriteLine("Enter your roll number");
 double roll = Convert.To.Int32(Console.ReadLine());
 
-Addtion
+Addtion:
 Consol.WriteLine("Enter first number");
 double x = Convert.To.Int32(Console.ReadLine());
 
